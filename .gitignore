@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+
+# Vim & Emacs
+*~
+
+# Vim
+*.sw[p-z]
+
+# Emacs
+\#*\#
+.\#*
+
+# JetBrains IDEs
+**/.idea/*
+
+# Visual Studio Code
+**/.vscode/*
+!**/.vscode/settings.json
+!**/.vscode/tasks.json
+!**/.vscode/launch.json
+!**/.vscode/extensions.json
+!**/.vscode/*.code-snippets
+
+# Android Studio
+local.properties
+
+# JVM
+hs_err_pid*.log
+
+# Gradle
+.gradle/
+build/
